@@ -1,4 +1,4 @@
-# CS779A-Mini-Research-Project
+# CS779A Project: Medical Text Processing
 
 ## References
 
